@@ -1,0 +1,11 @@
+Classifier (100% data),Model Training time,Model Predicting time,Accuracy Score Testing,F-Score Testing
+Gaussian Naive Bayes (GaussianNB),1,1,0.6,0.57
+Decision Trees,0.5,0.01,0.8,0.62
+K-Nearest Neighbors (KNeighbors),11,28,0.8,0.6
+Stochastic Gradient Descent Classifier (SGDC),0.1,0.005,0.8,0.6
+Support Vector Machines (SVM),100,20,0.8,0.58
+Logistic Regression,11,0.005,0.82,0.61
+Ensemble Methods (Bagging),3,0.08,0.86,0.68
+Ensemble Methods (AdaBoost),2.5,0.13,0.82,0.66
+Ensemble Methods (Random Forest),1,0.04,0.82,0.65
+Ensemble Methods (Gradient Boosting),11.8,0.025,0.85,0.65
